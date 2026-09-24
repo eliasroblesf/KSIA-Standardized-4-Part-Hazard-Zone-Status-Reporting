@@ -1,0 +1,8 @@
+{
+  "name": "KSIA Standardized 4-Part Hazard & Zone Status Reporting",
+  "description": "3.1.2.4a Standardized 4-Part Hazard & Zone Status Reporting ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
